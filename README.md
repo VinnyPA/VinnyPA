@@ -1,16 +1,37 @@
 # Oi, eu sou o Vinny 👋
 
-Estudante de **Engenharia da Computação** na USF. Gosto de construir coisas que
-funcionam de ponta a ponta — do firmware de um ESP32 até uma aplicação web em produção.
+**Assistente de TI** e estudante de **Engenharia da Computação** na USF, já formado em
+**Análise e Desenvolvimento de Sistemas**. Gosto de construir coisas que funcionam de
+ponta a ponta — do firmware de um ESP32 até uma aplicação web em produção.
 
-*Computer Engineering student building web apps, games and hardware projects.*
+*IT Assistant and Computer Engineering student building web apps, games and hardware projects.*
+
+📍 Piracaia – SP
 
 - 🌐 Web full-stack com **TypeScript, React, Next.js e Supabase**
+- 🛠️ Suporte, infraestrutura e redes no dia a dia
 - 🔌 Hardware com **ESP32** — robótica, sensores, energia solar
+
+## 🎓 Formação
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Engenharia da Computação | USF — Universidade São Francisco | 2025 – em andamento |
+| Análise e Desenvolvimento de Sistemas | UNIFAAT | concluído em 2024 |
+
+## 💼 Experiência
+
+**Assistente de TI** — Apice Cont Assessoria & Contabilidade · *2025 – atual*
+Suporte a usuários, manutenção de hardware e software, rede e cabeamento, implantação
+e melhoria dos sistemas da empresa e treinamento da equipe em ferramentas digitais.
+
+**Auxiliar de Legalização de Empresas** — Apice Cont Assessoria & Contabilidade · *2021 – 2025*
+Processos de abertura e regularização de empresas, controle de documentos e prazos e
+contato com órgãos públicos.
 
 ## 🛠️ Stack
 
-[![Stack](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,vite,tailwind,supabase,postgres,cs,dotnet,arduino,git,vercel&perline=8)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,vite,tailwind,supabase,postgres,python,cs,dotnet,arduino,git,vercel,windows&perline=9)](https://skillicons.dev)
 
 ## 🚀 Projetos
 
@@ -25,7 +46,3 @@ WebSocket. *Em construção — o hardware está chegando.*
 ---
 
 Outros projetos (web, SaaS e jogos) estão em desenvolvimento em repositórios privados.
-
-## 📫 Contato
-
-<!-- Adicione aqui: LinkedIn, e-mail profissional, portfólio -->
