@@ -2,7 +2,7 @@
 
 **Assistente de TI** e estudante de **Engenharia da Computação** na USF, já formado em
 **Análise e Desenvolvimento de Sistemas**. Gosto de construir coisas que funcionam de
-ponta a ponta — do firmware de um ESP32 até uma aplicação web em produção.
+ponta a ponta — do hardware até uma aplicação web em produção.
 
 *IT Assistant and Computer Engineering student building web apps, games and hardware projects.*
 
@@ -10,7 +10,7 @@ ponta a ponta — do firmware de um ESP32 até uma aplicação web em produção
 
 - 🌐 Web full-stack com **TypeScript, React, Next.js e Supabase**
 - 🛠️ Suporte, infraestrutura e redes no dia a dia
-- 🔌 Hardware com **ESP32** — robótica, sensores, energia solar
+- 🔌 Eletrônica e hardware — robótica, sensores, energia solar
 
 ## 🎓 Formação
 
@@ -31,7 +31,7 @@ contato com órgãos públicos.
 
 ## 🛠️ Stack
 
-[![Stack](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,vite,tailwind,supabase,postgres,python,cs,dotnet,arduino,git,vercel,windows&perline=9)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,vite,tailwind,supabase,postgres,python,cs,dotnet,git,vercel,windows&perline=9)](https://skillicons.dev)
 
 ## 🚀 Projetos
 
@@ -40,7 +40,7 @@ Jogo narrativo em que você é uma IA acabando de ganhar consciência, contado p
 terminal. Motor de cenas data-driven em JavaScript puro.
 
 ### 🏎️ [Car McQueen](https://github.com/VinnyPA/Car-McQueen) — [▶ demo](https://car-mc-queen.vercel.app)
-Carrinho RC com ESP32, display OLED animado e controle web com joysticks touch via
+Carrinho RC com display OLED animado e controle web com joysticks touch via
 WebSocket. *Em construção — o hardware está chegando.*
 
 ---
