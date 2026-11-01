@@ -54,5 +54,6 @@ Outros projetos (web e SaaS) estão em desenvolvimento em repositórios privados
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinnypalves-0a0d14?style=flat-square&logo=linkedin&logoColor=39ff8b)](https://www.linkedin.com/in/vinnypalves/)
-[![Email](https://img.shields.io/badge/vinny.alves004@hotmail.com-0a0d14?style=flat-square&logo=microsoftoutlook&logoColor=39ff8b)](mailto:vinny.alves004@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinnypalves-1a8a4a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0d14)](https://www.linkedin.com/in/vinnypalves/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-vinny.alves004@hotmail.com-1a8a4a?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0a0d14)](mailto:vinny.alves004@hotmail.com)
