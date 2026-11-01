@@ -40,7 +40,7 @@ Jogo narrativo em que você é uma IA acabando de ganhar consciência, contado p
 terminal. Motor de cenas data-driven em JavaScript puro.
 
 ### 🏎️ [Car McQueen](https://github.com/VinnyPA/Car-McQueen) — [▶ demo](https://car-mc-queen.vercel.app)
-Carrinho RC com display OLED animado e controle web com joysticks touch via
+Carrinho RC com ESP32, display OLED animado e controle web com joysticks touch via
 WebSocket. *Em construção — o hardware está chegando.*
 
 ---
