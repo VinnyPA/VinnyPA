@@ -6,7 +6,6 @@ funcionam de ponta a ponta — do firmware de um ESP32 até uma aplicação web 
 *Computer Engineering student building web apps, games and hardware projects.*
 
 - 🌐 Web full-stack com **TypeScript, React, Next.js e Supabase**
-- 🎮 Jogos — narrativa interativa e engines de jogo
 - 🔌 Hardware com **ESP32** — robótica, sensores, energia solar
 
 ## 🛠️ Stack
