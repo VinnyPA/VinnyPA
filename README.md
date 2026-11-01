@@ -4,7 +4,7 @@
 **Análise e Desenvolvimento de Sistemas**. Gosto de construir coisas que funcionam de
 ponta a ponta — do hardware até uma aplicação web em produção.
 
-*IT Assistant and Computer Engineering student building web apps, games and hardware projects.*
+*IT Assistant and Computer Engineering student building web apps and hardware projects.*
 
 📍 Piracaia – SP
 
@@ -45,4 +45,4 @@ WebSocket. *Em construção — o hardware está chegando.*
 
 ---
 
-Outros projetos (web, SaaS e jogos) estão em desenvolvimento em repositórios privados.
+Outros projetos (web e SaaS) estão em desenvolvimento em repositórios privados.
