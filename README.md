@@ -1,4 +1,7 @@
-# Oi, eu sou o Vinny 👋
+<div align="center">
+  <img src="assets/boot.svg" alt="vinny://kernel.boot — Vinny Alves · Assistente de TI · ADS concluído, Engenharia da Computação em andamento · web full-stack, infra e hardware · Piracaia, SP" width="100%">
+</div>
+
 
 **Assistente de TI** e estudante de **Engenharia da Computação** na USF, já formado em
 **Análise e Desenvolvimento de Sistemas**. Gosto de construir coisas que funcionam de
@@ -46,3 +49,7 @@ WebSocket. *Em construção — o hardware está chegando.*
 ---
 
 Outros projetos (web e SaaS) estão em desenvolvimento em repositórios privados.
+
+## 📫 Contato
+
+[![Email](https://img.shields.io/badge/vinny.alves004@hotmail.com-0a0d14?style=flat-square&logo=microsoftoutlook&logoColor=39ff8b)](mailto:vinny.alves004@hotmail.com)
